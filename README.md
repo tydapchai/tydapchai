@@ -12,9 +12,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/tydapchai">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tydapchai&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="tydapchai's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tydapchai&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="tydapchai's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=tydapchai&theme=radical&hide_border=true&cache_seconds=86400" alt="tydapchai's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=tydapchai&theme=nightowl&hide_border=true&cache_seconds=86400" alt="tydapchai's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
@@ -36,14 +36,6 @@
 
 <p align="center">
   <a href="https://github.com/tydapchai">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tydapchai&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tydapchai&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
-</div>
