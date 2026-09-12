@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" height="250px" />
+  <img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" alt="Banner" height="250px" />
 </p>
 
 ## 📊 GitHub Stats & Trophies
