@@ -38,6 +38,6 @@
 
 <p align="center">
   <a href="https://github.com/tydapchai">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tydapchai&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tydapchai&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="" />
   </a>
 </p>
