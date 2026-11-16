@@ -14,9 +14,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/tydapchai">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tydapchai&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="tydapchai's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tydapchai&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=tydapchai&theme=nightowl&hide_border=true&cache_seconds=86400" alt="tydapchai's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=tydapchai&theme=nightowl&hide_border=true&cache_seconds=86400" alt="" width="49%" />
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
